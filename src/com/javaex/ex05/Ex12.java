@@ -37,7 +37,7 @@ public class Ex12 {
 				}
 				
 				if(args[i].equals("-n")) {
-					System.out.println("만든사람: 황일영");
+					System.out.println("만든사람: 최수진");
 				}
 			}
 			
